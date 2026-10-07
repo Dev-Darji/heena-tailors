@@ -1,0 +1,7 @@
+# System & Editor
+.DS_Store
+Thumbs.db
+*.log
+.kiro/
+.vscode/
+.idea/
